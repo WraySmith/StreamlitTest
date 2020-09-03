@@ -1,1 +1,1 @@
-heroku create myapp --buildpack heroku/python
+heroku create covid_app --buildpack heroku/python
